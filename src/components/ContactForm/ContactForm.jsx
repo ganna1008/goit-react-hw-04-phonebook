@@ -45,6 +45,7 @@ export const ContactForm = ({ addContact }) => {
           onChange={handleChange}
         />
       </InputLabel>
+
       <InputLabel>
         Number
         <InputField
